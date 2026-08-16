@@ -39,8 +39,8 @@ cross-platform application and some of it is a 512-byte offset fix for a SNES
 fan translation.
 
 **[re-moct](https://github.com/RadMageIRL/re-moct)** - I missed MOC. So I rebuilt
-the idea for Linux and Windows, and then kept going. C++20 on ncurses, with CD
-ripping, AccurateRip verification and internet radio.
+the idea for Linux and Windows, and then kept going. C++20 on PDCursesMod/ncurses, with
+CD ripping, AccurateRip verification and internet radio.
 
 **[LinuxUtils](https://github.com/RadMageIRL/LinuxUtils)** - I had accumulated
 enough admin tools that they needed somewhere to live. Standard library only,
