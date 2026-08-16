@@ -66,3 +66,5 @@ the output. This one never leaves your browser. AWESOME MODE is just for fun.
 
 Publishing the backlog, and building the next thing. If any of it turns out to be
 useful to you, that is a pleasant side effect rather than the plan.
+
+Red Mage, FFXI, since launch
