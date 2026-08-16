@@ -60,8 +60,7 @@ note app annoyed me in a slightly different way. This one is a single HTML file.
 
 **[SecurePasswordGenerator](https://github.com/RadMageIRL/SecurePasswordGenerator)** -
 Every password generator on the web asks you to trust a stranger's server with
-the output. This one never leaves your browser. AWESOME MODE is not
-load-bearing.
+the output. This one never leaves your browser. AWESOME MODE is just for fun.
 
 ## Now
 
