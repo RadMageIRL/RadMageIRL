@@ -39,7 +39,7 @@ cross-platform application and some of it is a 512-byte offset fix for a SNES
 fan translation.
 
 **[re-moct](https://github.com/RadMageIRL/re-moct)** - I missed MOC. So I rebuilt
-the idea for Linux and Windows, and then kept going. C++20 on PDCursesMod/ncurses, with CD
+the idea for Linux and Windows, and then kept going. C++20 on ncurses, with CD
 ripping, AccurateRip verification and internet radio.
 
 **[LinuxUtils](https://github.com/RadMageIRL/LinuxUtils)** - I had accumulated
@@ -57,6 +57,11 @@ if it was wrong.
 
 **[Codex-Notes-HTML](https://github.com/RadMageIRL/Codex-Notes-HTML)** - Every
 note app annoyed me in a slightly different way. This one is a single HTML file.
+
+**[SecurePasswordGenerator](https://github.com/RadMageIRL/SecurePasswordGenerator)** -
+Every password generator on the web asks you to trust a stranger's server with
+the output. This one never leaves your browser. AWESOME MODE is not
+load-bearing.
 
 ## Now
 
