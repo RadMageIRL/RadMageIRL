@@ -75,3 +75,7 @@ Publishing the backlog, and building the next thing. If any of it turns out to b
 useful to you, that is a pleasant side effect rather than the plan.
 
 Red Mage, FFXI, since launch
+
+<img width="728" height="90" alt="remoct-banner-728x90" src="https://github.com/user-attachments/assets/4ef8e3fb-ee03-47e5-b5b7-4a35360be04f" />
+<br><br>
+<img width="1280" height="300" alt="whittle-profile-1280x300" src="https://github.com/user-attachments/assets/447c4947-2d94-49a2-b6d9-b77adb178043" />
