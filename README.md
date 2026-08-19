@@ -78,4 +78,5 @@ Red Mage, FFXI, since launch
 
 <img width="728" height="90" alt="remoct-banner-728x90" src="https://github.com/user-attachments/assets/4ef8e3fb-ee03-47e5-b5b7-4a35360be04f" />
 <br><br>
-<img width="1280" height="300" alt="whittle-profile-1280x300" src="https://github.com/user-attachments/assets/447c4947-2d94-49a2-b6d9-b77adb178043" />
+<img width="728" height="90" alt="whittle-banner-728x90-2" src="https://github.com/user-attachments/assets/c940965d-4e58-4766-a686-1355586778cd" />
+
