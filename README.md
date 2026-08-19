@@ -55,6 +55,8 @@ fixed it.
 Two hard hangs in a different SNES fan translation. One was three deleted
 bytes. The other was a text buffer parked in memory the original game wipes,
 which took gigabytes of instruction traces to find and is fixed by moving it.
+The Gold display was not visible in the NoPrgress patch, added it back in the
+English translation.
 
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
 I could trust across thousands of files at once. Plan first, execute second, undo
