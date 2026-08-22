@@ -52,11 +52,11 @@ existing patch was broken. It turned out to be a 512-byte alignment issue. I
 fixed it.
 
 **[DQVI_NOPRGRESS_MENU_FIX](https://github.com/RadMageIRL/DQVI_NOPRGRESS_MENU_FIX)** -
-Two hard hangs in a different SNES fan translation. One was three deleted
-bytes. The other was a text buffer parked in memory the original game wipes,
-which took gigabytes of instruction traces to find and is fixed by moving it.
-The Gold display was not visible in the NoPrgress patch, added it back in the
-English translation.
+Three hard hangs in a different SNES fan translation. One was three deleted
+bytes. One was a text buffer parked in memory the original game wipes,
+which took gigabytes of instruction traces to find and is fixed by moving it. The
+third was original Enix code. The Gold display was not visible in the NoPrgress patch,
+added it back in the English translation.
 
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
 I could trust across thousands of files at once. Plan first, execute second, undo
