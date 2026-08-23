@@ -55,7 +55,7 @@ fixed it.
 Three hard hangs in a different SNES fan translation. One was three deleted
 bytes. One was a text buffer parked in memory the original game wipes,
 which took gigabytes of instruction traces to find and is fixed by moving it. The
-third was original Enix code. The Gold display was not visible in the NoPrgress patch,
+third was original Enix (Chunsoft) code. The Gold display was not visible in the NoPrgress patch,
 added it back in the English translation.
 
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
