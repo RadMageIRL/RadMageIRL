@@ -58,6 +58,14 @@ which took gigabytes of instruction traces to find and is fixed by moving it. Th
 third was original Enix (Chunsoft) code. The Gold display was not visible in the NoPrgress patch,
 added it back in the English translation.
 
+**[DQVI_SCRIPT_REFILL](https://github.com/RadMageIRL/DQVI_SCRIPT_REFILL)** - The
+same translation also shipped with 421 messages never written, so whole towns
+talk in raw ID numbers. I wrote them from the Japanese, along with 187 item,
+spell and place names. It corrects 67 misspellings of theirs as well, under a
+rule narrow enough that the build can check it rather than argue about it: only
+where the ROM itself spells the word correctly somewhere else, or where the
+shipped form is not an English word at all.
+
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
 I could trust across thousands of files at once. Plan first, execute second, undo
 if it was wrong.
