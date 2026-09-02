@@ -62,9 +62,7 @@ added it back in the English translation.
 NoPrgress translation also shipped with 421 messages never written, so whole towns
 talk in raw ID numbers. I wrote them from the Japanese, along with 187 item,
 spell and place names. It corrects 67 misspellings of theirs as well, under a
-rule narrow enough that the build can check it rather than argue about it: only
-where the ROM itself spells the word correctly somewhere else, or where the
-shipped form is not an English word at all.
+narrow rule, it also removes * from the end of item names that clipped windows.
 
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
 I could trust across thousands of files at once. Plan first, execute second, undo
