@@ -63,6 +63,9 @@ NoPrgress translation also shipped with 421 messages never written, so whole tow
 talk in raw ID numbers. I wrote them from the Japanese, along with 187 item,
 spell and place names. It corrects 67 misspellings of theirs as well, under a
 narrow rule, it also removes * from the end of item names that clipped windows.
+Thanks to clymax for his info on battle target fix and pointing me in the right
+direction to fix the equip hang, and thanks to ioev for testing leading to
+locating and fixing battle menu text NoPrgress left untranslated.
 
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
 I could trust across thousands of files at once. Plan first, execute second, undo
