@@ -67,6 +67,11 @@ Thanks to clymax for his info on battle target fix and pointing me in the right
 direction to fix the equip hang, and thanks to ioev for testing leading to
 locating and fixing battle menu text NoPrgress left untranslated.
 
+**[DQIV_PSX_TOOLS](https://github.com/RadMageIRL/DQIV_PSX_TOOLS)** - a collection of utilities and extraction tools
+created for ROM hacking and analyzing the PlayStation 1 (PSX) version of Dragon Quest IV. It provides
+scripts to help examine game data, handle text extraction, and decode internal engine structures.
+The project acts as a technical toolkit for developers working on reverse-engineering and localizing the game.
+
 **[renorm](https://github.com/RadMageIRL/renorm)** - I needed a filename renamer
 I could trust across thousands of files at once. Plan first, execute second, undo
 if it was wrong.
