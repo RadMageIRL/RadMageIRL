@@ -42,6 +42,10 @@ fan translation.
 the idea for Linux and Windows, and then kept going. C++20 on PDCursesMod/ncurses, with
 CD ripping, AccurateRip verification and internet radio.
 
+**[SniffIHeartRadio](https://github.com/RadMageIRL/SniffIHeartRadio)** -
+Standalone diagnostic utilities that probe undocumented
+iHeartRadio API endpoints to identify and cache metadata sources for HLS streams.
+
 **[LinuxUtils](https://github.com/RadMageIRL/LinuxUtils)** - I had accumulated
 enough admin tools that they needed somewhere to live. Standard library only,
 read-only by default, and each one says plainly when it cannot determine
