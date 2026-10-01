@@ -80,6 +80,11 @@ The project acts as a technical toolkit for developers working on reverse-engine
 I could trust across thousands of files at once. Plan first, execute second, undo
 if it was wrong.
 
+**[delta](https://github.com/RadMageIRL/delta)** - Comparing a switch config
+before and after a change window meant pasting it into somebody's website. This
+one runs in my browser and never sends anything anywhere, and I can tell it to
+ignore the timestamp lines that make every running-config look changed.
+
 **[Codex-Notes-HTML](https://github.com/RadMageIRL/Codex-Notes-HTML)** - Every
 note app annoyed me in a slightly different way. This one is a single HTML file.
 
