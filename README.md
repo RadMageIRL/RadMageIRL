@@ -51,6 +51,14 @@ enough admin tools that they needed somewhere to live. Standard library only,
 read-only by default, and each one says plainly when it cannot determine
 something rather than guessing.
 
+**[ffxi-timer](https://github.com/RadMageIRL/ffxi-timer)** - A Vana'diel clock
+for FFXI in the spirit of Pyogenes' old timer page, rebuilt on current data: every
+airship and ferry with boarding countdowns, guild and shop hours, the moon, RSE,
+and weather for 218 zones with a finder for where and when a weather is most
+likely. A planner finds when a weekday, moon phase and weather next line up, and
+alarms can post to Discord. It runs in the browser at
+[radmageirl.github.io/ffxi-timer](https://radmageirl.github.io/ffxi-timer/).
+
 **[DQVSNES4PARTYPATCH](https://github.com/RadMageIRL/DQVSNES4PARTYPATCH)** - The
 existing patch was broken. It turned out to be a 512-byte alignment issue. I
 fixed it.
